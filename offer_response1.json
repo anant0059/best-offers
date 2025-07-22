@@ -1,0 +1,370 @@
+{
+    "offers": {
+        "headerTitle": "Offers on online payment",
+        "offerList": [{
+            "provider": ["ICICI"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/ICICI.svg",
+            "offerText": {
+                "text": "Save ₹10,000"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250701194857KFHIY",
+                "text": "Extra ₹10000 Off On selected  Bank TRNX"
+            }
+        }, {
+            "provider": ["SBI"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/SBI.svg",
+            "offerText": {
+                "text": "Save ₹10,000"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250701194515LLXO5",
+                "text": "Extra ₹10000 Off On selected  Bank TRNX"
+            }
+        }, {
+            "provider": ["KOTAK"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/KOTAK.svg",
+            "offerText": {
+                "text": "Save ₹10,000"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250701194127SO194",
+                "text": "Extra ₹10000 Off On selected  Bank TRNX"
+            }
+        }, {
+            "provider": [],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/green-offer-tag.svg",
+            "offerText": {
+                "text": "Get ₹10 cashback"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250626172916JI4VZ",
+                "text": "Flat ₹10 Cashback on Paytm UPI Trxns. Min Order Value ₹500. Valid once per Paytm account"
+            }
+        }, {
+            "provider": ["IDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/IDFC.svg",
+            "offerText": {
+                "text": "Save ₹750"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250626182451RYQC7",
+                "text": "5% off up to ₹750 on IDFC FIRST Power Women Platinum and Signature DebitCards. Min Txn Value: ₹5,000"
+            }
+        }, {
+            "provider": ["SBI"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/SBI.svg",
+            "offerText": {
+                "text": "No cost EMI offer"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250705190116Z9YX8",
+                "text": "No Cost EMI Upto 6 Months"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹2,500"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704202225I5HHC",
+                "text": "Flat ₹2500 on HDFC Bank Credit Card EMI on 12 months and above tenure. Min Txn Value: ₹30000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹3,750"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704204038MD3DZ",
+                "text": "Flat ₹3750 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹75000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹4,000"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO2507042045036N25F",
+                "text": "Flat ₹4000 on HDFC Bank Credit Card EMI on 9 months tenure. Min Txn Value: ₹75000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹2,000"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO25070420170018FK3",
+                "text": "Flat ₹2000 on HDFC Bank Credit Card EMI on 9 months tenure. Min Txn Value: ₹30000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹4,000"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704203653BLDZA",
+                "text": "Flat ₹4000 on HDFC Bank Credit Card EMI on 12 months and above tenure. Min Txn Value: ₹50000"
+            }
+        }, {
+            "provider": ["FLIPKARTAXISBANK"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/AXIS.svg",
+            "offerText": {
+                "text": "Get 5% cashback"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250619134128USHPF",
+                "text": "5% cashback on Flipkart Axis Bank Credit Card upto ₹4,000 per statement quarter"
+            }
+        }, {
+            "provider": ["BOBARODA"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/BOB.svg",
+            "offerText": {
+                "text": "Save ₹500"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250630202506KYC5F",
+                "text": "Extra ₹500 off on BOBCARD EMI Transactions on 9 months and above tenures. Min Product Value ₹25000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹750"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704192447CLSFR",
+                "text": "Flat ₹750 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹15000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹500"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO2507042105097DZ77",
+                "text": "Flat ₹500 on HDFC Bank Credit Card EMI on 6 months tenure. Min. Txn Value: ₹10000"
+            }
+        }, {
+            "provider": ["BOBARODA"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/BOB.svg",
+            "offerText": {
+                "text": "Save ₹1,500"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO2506301938399SY1F",
+                "text": "10% off up to ₹1,500 on BOBCARD EMI Transactions of 6 months and above tenures, Min TxnValue: ₹7,500"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹1,000"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704194638XUV22",
+                "text": "Flat ₹1000 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹15000"
+            }
+        }, {
+            "provider": ["ICICI"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/ICICI.svg",
+            "offerText": {
+                "text": "No cost EMI offer"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250705185902AISC5",
+                "text": "No Cost EMI Upto 6 Months"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹1,750"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO2507042008157YQZM",
+                "text": "Flat ₹1750 on HDFC Bank Credit Card EMI on 6 months Tenure. Min Txn Value: ₹30000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹3,500"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO25070420315436CH6",
+                "text": "Flat ₹3500 on HDFC Bank Credit Card EMI on 9 months tenure. Min Txn Value: ₹50000"
+            }
+        }, {
+            "provider": ["KOTAK"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/KOTAK.svg",
+            "offerText": {
+                "text": "No cost EMI offer"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250705190347GHR57",
+                "text": "No Cost EMI Upto 6 Months"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹4,500"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704204930KZYV3",
+                "text": "Flat ₹4500 on HDFC Bank Credit Card EMI on 12 months and above tenure. Min Txn Value: ₹75000"
+            }
+        }, {
+            "provider": ["FLIPKARTAXISBANK"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/AXIS.svg",
+            "offerText": {
+                "text": "Get 5% cashback"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250619135528ZQIZW",
+                "text": "5% cashback on Axis Bank Flipkart Debit Card up to ₹750"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹1,500"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO2507042000473JP81",
+                "text": "Flat ₹1500 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹20000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹1,250"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO2507042306179OKXZ",
+                "text": "Flat ₹1250 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹20000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹3,250"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704202703TYGA8",
+                "text": "Flat ₹3250 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹50000"
+            }
+        }, {
+            "provider": ["HDFC"],
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "offerText": {
+                "text": "Save ₹750"
+            },
+            "offerDescription": {
+                "type": "tenure.detail.offer.terms.conditions",
+                "tncText": "Terms and conditions",
+                "id": "FPO250704210925MIFUZ",
+                "text": "Flat ₹750 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹10000"
+            }
+        }],
+        "filterList": [{
+            "title": "All Offers",
+            "type": "provider",
+            "value": "ALL"
+        }, {
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/ICICI.svg",
+            "title": "ICICI Bank",
+            "type": "provider",
+            "value": "ICICI"
+        }, {
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/SBI.svg",
+            "title": "State Bank of India",
+            "type": "provider",
+            "value": "SBI"
+        }, {
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/KOTAK.svg",
+            "title": "Kotak Bank",
+            "type": "provider",
+            "value": "KOTAK"
+        }, {
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/IDFC.svg",
+            "title": "IDFC FIRST Bank",
+            "type": "provider",
+            "value": "IDFC"
+        }, {
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/HDFC.svg",
+            "title": "HDFC Bank",
+            "type": "provider",
+            "value": "HDFC"
+        }, {
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/AXIS.svg",
+            "title": "Flipkart Axis Bank",
+            "type": "provider",
+            "value": "FLIPKARTAXISBANK"
+        }, {
+            "logo": "/FK_STATIC_ASSET/fk-p-linchpin-web/fk-gringotts/images/banks/BOB.svg",
+            "title": "Bank of Baroda",
+            "type": "provider",
+            "value": "BOBARODA"
+        }]
+    }
+}
