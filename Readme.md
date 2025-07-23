@@ -53,19 +53,19 @@ c. **Start MongoDB**
      ```
    * Connection string: `mongodb://localhost:27017/bestoffer`
 
-4. **Configure environment**
+d. **Configure environment**
 
    * Copy `.env.example` to `.env`
    * Set `MONGODB_URI=mongodb://localhost:27017/bestoffer`
    * (Optional) adjust `PORT` or other variables
 
-5. **Run the server**
+e. **Run the server**
 
    ```bash
    npm start
    ```
 
-6. **Test the endpoints**
+f. **Test the endpoints**
    You can use the following `curl` commands:
 
    ```bash
