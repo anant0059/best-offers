@@ -17,6 +17,7 @@ app.get('/', (req, res) => {
 });
 
 app.use('/bestoffer/api/health/', Routes.HealthApi);
+app.use('/bestoffer/api/offers/', Routes.OfferApi);
 
 app.use(errorHandler);
 

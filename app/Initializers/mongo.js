@@ -12,7 +12,6 @@ export default class Mongo {
    constructor() {
      const proto = Object.getPrototypeOf(this);
      console.log('MongoDB Initializer');
-     Logger.debug(`Connecting to MongoDB... ${process.bestoffer.db.url}`);
      if (!proto.connection) {
        proto.connection = mongoose.connect(process.bestoffer.db.url ,{ useNewUrlParser: true, useUnifiedTopology: true, serverApi: { version: '1' } });
      }
